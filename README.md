@@ -10,7 +10,7 @@ $ npm install -g webpack
 To build:
 
 ```
-webpack --watch
+webpack
 ```
 
 Files will be build into `dist/`. Just symlink that dir into your dapps path.
