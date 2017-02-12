@@ -1,8 +1,8 @@
 {
 	"id": "0x66fc2df36493971db63b7375e692abe34b6449b17111b576c21f16cc8894aae5",
-	"name": "Skeleton",
+	"name": "Hello from CodeTract",
 	"description": "A skeleton dapp",
 	"version": "0.1",
-	"author": "Parity Technologies Ltd",
+	"author": "https://codetract.io",
 	"iconUrl": "title.png"
 }
